@@ -1,0 +1,21 @@
+﻿{
+  "Descriptor": {
+    "UId": "984e9a3f-c033-4816-a098-64a6aa1db86d",
+    "PackageVersion": "1.0.0",
+    "Name": "AccountPackage",
+    "ModifiedOnUtc": "\/Date(1520063583000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "62f5ed20-5567-4701-93cc-67b3068a0726",
+        "PackageVersion": "1.0.0",
+        "Name": "CashflowPackage"
+      },
+      {
+        "UId": "4ea5bf1d-c3f3-4927-a8d3-f7183a87bad8",
+        "PackageVersion": "1.0.0",
+        "Name": "CommonDictionaryPackage"
+      }
+    ]
+  }
+}
